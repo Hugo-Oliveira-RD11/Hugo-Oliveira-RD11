@@ -7,9 +7,7 @@
 
 <div align=center>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1500&color=008F39&width=500&lines=Seja+Bem-Vindo!+%F0%9F%91%8B+" alt="Typing SVG" />
-  <br>
 </div>
- 
  <div style="display: flex" align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=Hugo-Oliveira-RD11&show_icons=true&theme=dark&card_width=300" />
