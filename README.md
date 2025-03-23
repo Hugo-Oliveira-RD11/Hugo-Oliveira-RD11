@@ -1,13 +1,13 @@
- ### Ola!, Eu sou Hugo
- Sou estudante de Ciência da Computação na Universidade Catolica de Brasilia, atualmente estou focando meus estudos no .net
-
+<div align=center>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1500&color=008F39&width=500&lines=Seja+Bem-Vindo,Eu+sou+Hugo+%F0%9F%91%8B+" alt="Typing SVG" />
+</div>
+ Sou estudante de Ciência da Computação na Universidade Catolica de Brasilia, atualmente estou focando meus estudos no dotnet.
+ 
  > "quem tem um porque supera qualquer como." - friedrich nietzsche
  ##
 
 
-<div align=center>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1500&color=008F39&width=500&lines=Seja+Bem-Vindo!+%F0%9F%91%8B+" alt="Typing SVG" />
-</div>
+
  <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=Hugo-Oliveira-RD11&show_icons=true&card_width=300&theme=tokyonight" />
