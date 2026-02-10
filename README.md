@@ -7,10 +7,10 @@
 
  <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=Hugo-Oliveira-RD11&show_icons=true&card_width=300&theme=tokyonight" />
+    <img height="180em"  src="https://github-readme-stats-fast.vercel.app/api?username=Hugo-Oliveira-RD11&show_icons=true&theme=tokyonight" />
   </a>
   <a href="https://github.com/Hugo-Oliveira-RD11">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hugo-Oliveira-RD11&layout=compact&langs_count=7&theme=tokyonight"/>
+    <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Hugo-Oliveira-RD11&layout=compact&theme=tokyonight"/>
 </div>
 <div style="background-color: #e6e6e6; padding: 20px; border-radius: 10px; margin: 20px 0; display: flex;" align="center">
       <br>
